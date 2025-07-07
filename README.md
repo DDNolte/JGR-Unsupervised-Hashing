@@ -4,6 +4,8 @@ The main driver programs are
 
   These programs use TripletAAMargin.m as the main triplet neural-net with adaptive margins.
 
+The primary data files that are loaded by these programs are contained in the folders CSouMay and CSouRecApril.
+
 Programs for the "pop-rock" experiments are
   popaeC.m, 
   popaeTrip.m and 
